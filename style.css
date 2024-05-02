@@ -1,0 +1,20 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background: rgb(93, 55, 184);
+    color: rgb(228, 228, 238);
+}
+:root{
+    --azul: #10002B;
+    --roxo-primario: #240046;
+    --roxo-secundario: #3C096C;
+    --roxo-terciario: #5A189A;
+    --roxo-quarteario: #7B2CBF;
+    --roxo-quinteario: #9D4EDD;
+    --roxo-sextario: #C77DFF;
+    --roxo-setario: #E0AAFF;
+
+}
