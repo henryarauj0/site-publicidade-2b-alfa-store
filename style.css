@@ -16,5 +16,24 @@ body{
     --roxo-quinteario: #9D4EDD;
     --roxo-sextario: #C77DFF;
     --roxo-setario: #E0AAFF;
-
+    --branco-otaario:#ffffff;
+}
+.cabecalho{
+    background-color: var(--azul);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px;
+    
+}
+.cabecalho-img{
+    width: 10%;
+    border-radius: 100%;
+}
+.cabecalho-nav__link{
+    text-decoration: none;
+    font-family: var(--roxo-setario);
+    font-size: 24px;
+    color: var(--roxo-quinteario);
+    margin-right: 24px;
 }
